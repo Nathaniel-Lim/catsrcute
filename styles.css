@@ -1,0 +1,45 @@
+.miko{
+    width: 400px;
+}
+
+
+.miko8-image {
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+}
+
+.miko10-image {
+    width: 200px;
+}
+
+.miko11-image {
+  position: fixed;  /* Keeps image fixed when scrolling */
+  top: 0;
+  left: 0;
+  width: 100vw;    /* Full viewport width */
+  height: 100vh;   /* Full viewport height */
+  object-fit: cover; /* Scale and crop image to fill */
+  z-index: -1;
+}
+
+.index-text {
+    text-align: center;
+    font-size: 50px;
+}
+
+.index-start {
+    margin-top: 150px;
+}
+
+.big-div{
+    padding: 20px;
+}
+
+.text-yae-miko {
+    font-size: 26px;
+}
+
+.about-last-para {
+    margin-bottom: 40px;
+}
